@@ -1,10 +1,10 @@
 <h1 align="center"><a href="https://josanghyeon.vercel.app/">Josanghyeon</a>'s Github</h1>
 <p align="center">Hello I`m FE Dev my <b><a href="https://josanghyeon.vercel.app/">PortFolio</a></b></p>
-<br/>
-<div align="center">
+<hr/>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=KOVELO2005&count_private=true&theme=dracula)
-<br/>
-
-![github-language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOVELO2005&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-</div>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=KOVELO2005&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KOVELO2005&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=KOVELO2005&theme=merko&hide_border=true&background=FFFFFF00">
+</p>
+<hr/>
