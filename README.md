@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://josanghyeon.vercel.app/">Josanghyeon</a>'s Github</h1>
-<p align="center">Hello I`m FE Dev my <b><a href="https://josanghyeon.vercel.app/">PortFolio</a></b></p>
+<p align="center">Hello I am 🇰🇷 Korean FrontEnd 🧑🏻‍💻 Developer my <b><a href="https://josanghyeon.vercel.app/">PortFolio</a></b></p>
 <hr/>
 
 <p align="center">
